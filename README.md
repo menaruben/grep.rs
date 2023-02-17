@@ -17,6 +17,6 @@ cargo run <PARAMETERS>
 ```
 
 # Parameters
-- -s, --contains <string>  = only show elements containing "string"
-- -v, --invert-match <string> = only show elements not containing "string"
-- -c, --count <string> = count how many times a string occurs
+- -s, --contains string  = only show elements containing "string"
+- -v, --invert-match string = only show elements not containing "string"
+- -c, --count string = count how many times a string occurs
